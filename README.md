@@ -1,4 +1,4 @@
-# Basic Music Player documentation / Documentación de playerTL
+# Basic Music Player documentation / Documentación 
 
 Este proyecto es tan solo para ver el funcionamiento de la clase MediaPlayer de android (Descripción general de MediaPlayer)[https://developer.android.com/guide/topics/media/mediaplayer?hl=es-419]
 Sin implementar como servicio.
