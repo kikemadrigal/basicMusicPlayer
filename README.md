@@ -16,7 +16,7 @@ La música o audios deberá de ser alojada en la memoria interna del móvil y en
 ## Del móvil
 
 Mínimo Android 4.0 Ice cream sandwich API 15 (octubre de 2011).
-Máximo Android Android 10 Q API 29 (septiembre 2019).
+Máximo Android Android 10 Q API 28 (agosto 2018).
 
 ##Del sistema operativo
 
