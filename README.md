@@ -1,4 +1,4 @@
-# PlayerTL documentation / Documentación de playerTL
+# Basic Music Player documentation / Documentación de playerTL
 
 Este proyecto es tan solo para ver el funcionamiento de la clase MediaPlayer de android (Descripción general de MediaPlayer)[https://developer.android.com/guide/topics/media/mediaplayer?hl=es-419]
 Sin implementar como servicio.
@@ -18,7 +18,7 @@ La música o audios deberá de ser alojada en la memoria interna del móvil y en
 Mínimo Android 4.0 Ice cream sandwich API 15 (octubre de 2011).
 Máximo Android Android 10 Q API 28 (agosto 2018).
 
-##Del sistema operativo
+## Del sistema operativo
 
 ### optopenjdk 8 o Java 8 < java 8 u202
 
