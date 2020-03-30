@@ -9,14 +9,14 @@ Para que funcione tendrás que crear una carpeta llamada  o Audios o Musica o So
 
 # Requirements / Requisitos
 ## Del programa
-Mínimo Android 4.0 Ice cream sandwich API 15 (octubre de 2011).
-Máximo Android Android 10 Q API 29 (septiembre 2019).
 
 La música o audios deberá de ser alojada en la memoria interna del móvil y en una de estas carpteas:
-<img src="images/2.PNG" width="300" />
+<img src="images/2.PNG" width="1000" />
 
 ## Del móvil
 
+Mínimo Android 4.0 Ice cream sandwich API 15 (octubre de 2011).
+Máximo Android Android 10 Q API 29 (septiembre 2019).
 
 ##Del sistema operativo
 
